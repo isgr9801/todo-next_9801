@@ -129,7 +129,7 @@ box-shadow: 0px 5px 7px rgb(27, 27, 27);
 }
 
 .todo-list-item{
-  background-color: #414040;
+  background-color: #000000;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -149,7 +149,7 @@ box-shadow: 0px 5px 7px rgb(27, 27, 27);
 
 .todo-list-item p{
   font-size: 14px;
-  color: rgb(161, 161, 161);
+  color: rgb(201, 101, 101);
   margin-top: 8px;
 }
 
@@ -181,7 +181,7 @@ box-shadow: 0px 5px 7px rgb(27, 27, 27);
 }
 
 .edit__wrapper input,.edit__wrapper textarea{
-  border: 1px solid lightgray;
+  border: 1px solid rgb(96, 224, 233);
   padding: 10px;
   margin: 5px;
   border-radius: 3px;
